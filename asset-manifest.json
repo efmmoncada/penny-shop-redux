@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/penny-shop-redux/static/css/main.4b7768ab.css",
+    "main.js": "/penny-shop-redux/static/js/main.78d7b8a1.js",
+    "index.html": "/penny-shop-redux/index.html",
+    "main.4b7768ab.css.map": "/penny-shop-redux/static/css/main.4b7768ab.css.map",
+    "main.78d7b8a1.js.map": "/penny-shop-redux/static/js/main.78d7b8a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b7768ab.css",
+    "static/js/main.78d7b8a1.js"
+  ]
+}
