@@ -14,6 +14,7 @@ const styles = css`
   align-items: center;
   position: sticky;
   top: 0;
+  z-index: 1000;
   background-color: var(--blue-3);
   padding: var(--size-3) 0;
 
